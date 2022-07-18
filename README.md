@@ -39,14 +39,14 @@ Web Developper full-stack
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/cheikh0101"><img src="https://github-readme-stats.vercel.app/api?username=cheikh0101&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cheikh0101's GitHub stats" /></a>
+<a href="http://www.github.com/cheikh0101"><img src="https://github-readme-stats.vercel.app/api?username=cheikh0101&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=831843&hide_border=true&show_icons=true" alt="cheikh0101's GitHub stats" /></a>
 
-<a href="http://www.github.com/cheikh0101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cheikh0101&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/cheikh0101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cheikh0101&stroke=ffffff&background=831843&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/cheikh0101"><img src="https://activity-graph.herokuapp.com/graph?username=cheikh0101&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/cheikh0101"><img src="https://activity-graph.herokuapp.com/graph?username=cheikh0101&bg_color=831843&color=ffffff&line=3382ed&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/cheikh0101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheikh0101&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cheikh0101" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheikh0101&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/cheikh0101/janticipe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cheikh0101&repo=janticipe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cheikh0101/janticipeV1.5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cheikh0101&repo=janticipeV1.5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/cheikh0101/janticipe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cheikh0101&repo=janticipe&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=831843&hide_border=true&locale=en" /></a><a href="https://github.com/cheikh0101/janticipeV1.5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cheikh0101&repo=janticipeV1.5&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
