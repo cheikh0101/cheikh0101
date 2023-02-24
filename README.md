@@ -7,8 +7,7 @@ Web Developper full-stack
 * 🌍  I'm based in Dakar
 * 🖥️  See my portfolio at [CTG](https://cheikh0101.github.io/portfolio/)
 * ✉️  You can contact me at [cheikhgueye000@gmail.com](mailto:cheikhgueye000@gmail.com)
-* 🚀  I'm currently working on [Janticipe](http://janticipe.herokuapp.com)
-* 🧠  I'm learning VueJs
+* 🧠  I'm learning DevSecOps
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
